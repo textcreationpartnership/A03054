@@ -35,92 +35,94 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-De veritate, prout distinguitur a revelatione, a verisimili, a possibili, et a falso hoc opus condid
+Decemb. xxxj. 1632.PErlegi hunc Tractatum cui Titulo est De Veritate, prout distinguitur à Revelatio
+1. LECTORI INGENVO.
+
 #####Body#####
+CVM eò jam deventum sit, ut à prioribus saeculis excogitarae opiniones, nostris, id negotij facessan
+    _ I. Est veritas.
 
-1. I. Est veritas.
+    _ II. Haec veritas est coaeterna, seu coaeva rebus.
 
-1. II. Haec veritas est coaeterna, seu coaeva rebus.
+    _ III. Haec veritas est vbique.
 
-1. III. Haec veritas est vbique.
+    _ IV. Haec veritas est inse manifesta.
 
-1. IV. Haec veritas est inse manifesta.
+    _ V. Tot sunt veritates, quot sunt rerum differentiae.
 
-1. V. Tot sunt veritates, quot sunt rerum differentiae.
+    _ VI. Differentiae rerum à potentijs, sive facultatibus, nobis insitis, innotescunt.
 
-1. VI. Differentiae rerum à potentijs, sive facultatibus, nobis insitis, innotescunt.
+    _ VII. Est veritas quaedamharum veritatum.
 
-1. VII. Est veritas quaedamharum veritatum.
+    _ Conditio prima est, ut intra nostram stet Analogiam.
 
-1. Conditio prima est, ut intra nostram stet Analogiam.
+    _ Conditio secunda est, vt objectum justam habeat magnitudinem.
 
-1. Conditio secunda est, vt objectum justam habeat magnitudinem.
+    _ Ad veritatem objecti tertia conditio est, ut habeat differentiam aliquam signantem.
 
-1. Ad veritatem objecti tertia conditio est, ut habeat differentiam aliquam signantem.
+    _ Ad veritatem objecti, conditio quarta est, ut sit alicui facultati cognatum.
 
-1. Ad veritatem objecti, conditio quarta est, ut sit alicui facultati cognatum.
+    _ Ad veritatem apparentiae conditio prima est, vt objectum debito tempore commoretur.
 
-1. Ad veritatem apparentiae conditio prima est, vt objectum debito tempore commoretur.
+    _ Ad veritatem apparentiae Conditio secunda est, ut debitum habeat transitionis medium.
 
-1. Ad veritatem apparentiae Conditio secunda est, ut debitum habeat transitionis medium.
+    _ Adveritatem apparentiae conditio tertia est, vt sit distantia debita.
 
-1. Adveritatem apparentiae conditio tertia est, vt sit distantia debita.
+    _ Adveritatem apparentiae conditio quartaest, ut objectum situm habeat commodum.
 
-1. Adveritatem apparentiae conditio quartaest, ut objectum situm habeat commodum.
+    _ Ad veritatem conceptus, conditio prima est, ut organum fit integrum.
 
-1. Ad veritatem conceptus, conditio prima est, ut organum fit integrum.
+    _ Ad veritatem conceptus conditio secunda est, vt organum nulla prava qualitate fit imbutum.
 
-1. Ad veritatem conceptus conditio secunda est, vt organum nulla prava qualitate fit imbutum.
+    _ Adveritatem conceptus conditio ter tia est, vt facultas quae se sentire sentit, non vacillet.
 
-1. Adveritatem conceptus conditio ter tia est, vt facultas quae se sentire sentit, non vacillet.
+    _ Ad veritatem conceptus conditio quartaest, vt facultas Analoga applicetur.
 
-1. Ad veritatem conceptus conditio quartaest, vt facultas Analoga applicetur.
+    _ Tot sunt facultates, quot sunt rerum differentiae, & vice versa.
 
-1. Tot sunt facultates, quot sunt rerum differentiae, & vice versa.
+    _ INSTINCTVS NATVRALIS, Sive sensus ille qui ex facultatibus communes notitias conformantibus oritur, vel SENSVS INTERNVS, vel SENSVS EXTERNVS, vel DISCVRSVS, De quibus magnum istud proferimus.
 
-1. INSTINCTVS NATVRALIS, Sive sensus ille qui ex facultatibus communes notitias conformantibus oritur, vel SENSVS INTERNVS, vel SENSVS EXTERNVS, vel DISCVRSVS, De quibus magnum istud proferimus.
+    _ Sequitur objectum Instinctus naturalis.
 
-1. Sequitur objectum Instinctus naturalis.
+    _ FACVLTAS quae movet quaestionem, AN.
 
-1. FACVLTAS quae movet quaestionem, AN.
+    _ FACVLTAS quae movet quaestionem QVID.
 
-1. FACVLTAS quae movet quaestionem QVID.
+    _ FACVLTAS quae movet quaestionem QVALE.
 
-1. FACVLTAS quae movet quaestionem QVALE.
+    _ FACVLTAS quae movet quaestionem QVANTVM.
 
-1. FACVLTAS quae movet quaestionem QVANTVM.
+    _ FACVLTAS quae movet quaestionem AD-QVID.
 
-1. FACVLTAS quae movet quaestionem AD-QVID.
+    _ FACVLTAS quae movet quaestionem QVOMODO, PER QVOD, vel QVIBVS MEDIIS.
 
-1. FACVLTAS quae movet quaestionem QVOMODO, PER QVOD, vel QVIBVS MEDIIS.
+    _ FACVLTAS quae movet quaestionem VBI.
 
-1. FACVLTAS quae movet quaestionem VBI.
+    _ FACVLTAS quae movet quaestionem QVANDO.
 
-1. FACVLTAS quae movet quaestionem QVANDO.
+    _ FACVLTAS quae movet quaestionem VNDE.
 
-1. FACVLTAS quae movet quaestionem VNDE.
+    _ FACVLTAS quaemovet quaestionem CVIVS GRATIA.
 
-1. FACVLTAS quaemovet quaestionem CVIVS GRATIA.
+    _ Notitiae communes circa Religionem.
 
-1. Notitiae communes circa Religionem.
+    _ ESSE SVPREMVM ALIQVOD NVMEN.
 
-1. ESSE SVPREMVM ALIQVOD NVMEN.
+    _ SVPREMVM ISTVD NVMEN DEBERE COLI.
 
-1. SVPREMVM ISTVD NVMEN DEBERE COLI.
+    _ PROBAM FACVLTATVM CONFORMATIONEM, PRAECIPVAM PARTEM CVLTVS DIVINI SEMPER HABITAM FVISSE.
 
-1. PROBAM FACVLTATVM CONFORMATIONEM, PRAECIPVAM PARTEM CVLTVS DIVINI SEMPER HABITAM FVISSE.
+    _ VITIA ET SCELERA QVAECVNQVE EXPIARI DEBERE EX POENITENTIA.
 
-1. VITIA ET SCELERA QVAECVNQVE EXPIARI DEBERE EX POENITENTIA.
+    _ ESSE PRAEMIVM, VEL POENAM POST HANC VITAM.
 
-1. ESSE PRAEMIVM, VEL POENAM POST HANC VITAM.
+    _ DE REVELATIONS.
 
-1. DE REVELATIONS.
+    _ DE VERISIMILI.
 
-1. DE VERISIMILI.
+    _ DE POSSIBILI.
 
-1. DE POSSIBILI.
-
-1. DE FALSO.
+    _ DE FALSO.
 SPHALMATA & ERRATA quaedam fortasse in seipso, nonnulla in Typographo, aliqua etiam in nobis corrige
 **Types of content**
 
